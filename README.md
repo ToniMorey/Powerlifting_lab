@@ -7,8 +7,7 @@ Para diversión del autor se ha añadido la siguiente información al DF:
 1. Fechas a cada set de levantamientos (fecha aleatoria entre 01/01/2020 y 31/21/2023) 
 
 2. Se ha asignado de manera aleatoria una ciudad (entre las 8 ciudades más importantes de cada país Europeo) a cada uno de los levantamientos
-
-3. Se ha asignado una marca (brand) a cada uno de los equipamientos usados en los levantamientos (aleatoria entre las 20 marcas más reconocidas de powerlifting) y un rating general (aleatorio entre 3.5 y 5) Queriendo imitar la media de la puntuación de usuarios web. 
+ 
 
 **Contexto:**\
 La competición se celebra anualmente:\
