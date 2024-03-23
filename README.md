@@ -4,7 +4,7 @@ Los datos han sido obtenidos de esta fuente:
 https://www.kaggle.com/datasets/konstantinmakarenko/debloated-powerlifting-dataset?resource=download
 Para diversión del autor se ha añadido la siguiente información al DF:
 
-1. Fechas a cada set de levantamientos (fecha aleatoria entre 01/01/2020 y 31/21/2023) 
+1. Fechas a cada set de levantamientos (fecha aleatoria entre 01/01/2020 y 31/12/2023) 
 
 2. Se ha asignado de manera aleatoria una ciudad (entre las 8 ciudades más importantes de cada país Europeo) a cada uno de los levantamientos
  
