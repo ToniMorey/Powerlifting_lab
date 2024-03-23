@@ -205,6 +205,6 @@ left join equipment e on p.equipment_id = e.equipment_id
 where e.equipment='Raw'
 group by e.equipment;
 ```
-![Plot](images/equipment_diff_perc.png)
+![Plot](images/Equipment_diff_perc.png)
 
 Es interesante ver como cuando los atletas usan una malla de powerlifting con multiples capas levantan hasta un 40% más que cuando no usan equipamiento. Con los otros dos equipamientos la diferencia no es tan notable.
