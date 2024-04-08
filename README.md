@@ -101,9 +101,9 @@ where sex = 'F'
 group by Categoria_edad
 order by avg(age);
 ```
-![Plot](images/Female_AVG_lifts.png)
-![Plot](images/Male_AVG_lifts.png)
-![Plot](images/Mx_AVG_lifts.png)
+![Plot](images/Female_AVG_Lifts.png)
+![Plot](images/Male_AVG_Lifts.png)
+![Plot](images/Mx_AVG_Lifts.png)
 
 Se miran los pesos promedios de los 3 levantamientos que los 5 países que más peso levantan en general:
 
